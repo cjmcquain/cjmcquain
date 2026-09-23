@@ -1,28 +1,27 @@
 # Charles McQuain
 
-Senior software engineer building a portfolio of side businesses in public.
+Senior software engineer. I build side businesses in public: content sites, digital products, books, and eventually software.
 
-I work a full-time engineering job and spend nights and weekends testing whether software, AI-assisted workflows, and disciplined distribution can become meaningful side income. I share the real numbers—including the zeroes—so other builders can learn alongside me.
+I work full time in a codebase every day. Nights and weekends, I test which of these channels can become a real business, and I write down what happens, including the parts that don't work.
 
-[Website](https://charlesmcquain.dev) · [Real Numbers](https://realnumbers.online) · [X / Twitter](https://x.com/cjmcquain)
+[charlesmcquain.dev](https://charlesmcquain.dev) · [Writing](https://charlesmcquain.dev/blog) · [RSS](https://charlesmcquain.dev/rss.xml) · [X](https://x.com/cjmcquain)
 
 ## What I'm building
 
-- **[Start & Ship](https://startandship.com)** — a Next.js starter kit for launching affiliate content sites with agentic coding tools.
-- **[Real Numbers](https://realnumbers.online)** — a twice-monthly newsletter about building side income with AI, with honest dashboards, experiments, and lessons.
-- **[The Real AI Side Hustle](https://www.amazon.com/dp/B0H6HNDNWB)** — my book about the unpolished reality of building AI-assisted side hustles while working full time.
-- **A portfolio of live experiments** — affiliate properties, digital products, and tools across travel, bourbon, pickleball, and consumer finance.
+**Books**
+- **[Should You Still Become a Software Engineer?](https://charlesmcquain.dev/books/software-engineer)** — a hiring manager's honest guide to AI, degrees, career changes, and your first tech job. Out now on Kindle and paperback, with a free worksheet.
+- **[The Real AI Side Hustle](https://charlesmcquain.dev/books/ai-income)** — what building AI-assisted side income looks like with a full-time job, based on projects I actually run.
 
-## What I'm focused on now
+**Content sites** — useful guides for specific audiences, funded by affiliate links: [BourbonProof](https://bourbonproof.com) (bourbon), [AvailSim](https://availsim.com) (travel connectivity), and [PaddlersPick](https://www.paddlerspick.com) (pickleball gear).
 
-- Building a repeatable distribution system instead of simply shipping more products.
-- Documenting what converts, what fails, and what I change next.
-- Using my own portfolio as the proving ground for Start & Ship.
+**Digital products** — guides, planners, and printable tools at [FieldTestedGuides](https://fieldtestedguides.etsy.com) on Etsy.
+
+**Software** — still exploring. I'm looking for a specific problem worth solving before I build a product for it.
 
 ## How I work
 
-My default stack is TypeScript, Next.js, and AI-assisted engineering workflows. I care about fast feedback, useful analytics, maintainable systems, and shipping work that reaches real people.
+Over seven years I've built full-stack systems on AWS and GCP, including RAG and LLM applications on Vertex AI, microservices, and APIs. I've also been a tech lead and an engineering manager. Day to day I use TypeScript, Next.js, Astro, and Python, and I use AI coding tools heavily while reviewing everything they produce.
 
-Most commercial source code stays private. The evidence, systems, and lessons do not: I publish those through my [blog](https://charlesmcquain.dev/blog), [newsletter](https://realnumbers.online), and [X account](https://x.com/cjmcquain).
+Most commercial code stays private. The systems and lessons are public on [the blog](https://charlesmcquain.dev/blog).
 
-If you're also building outside a full-time job, I'd love to compare notes.
+If you're also building something outside a full-time job, I'd like to compare notes. Find me on [X](https://x.com/cjmcquain).
